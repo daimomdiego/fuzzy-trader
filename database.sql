@@ -13,4 +13,5 @@ last float,
 low float,
 high float,
 invested float,
+usd_invested float,
 date_created timestamp default current_timestamp);
